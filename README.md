@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rexon-ramzes"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ising4u"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -124,7 +124,7 @@
 <br />
 
 <p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/rexon-ramzes/rexon-ramzes/blob/main/github-metrics.svg" width="100%" />
+    <img alt="metrics" title="Github Metrics" src="https://github.com/ising4u/ising4u/blob/main/github-metrics.svg" width="100%" />
 </p>
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
@@ -134,8 +134,8 @@
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexon-ramzes&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexon-ramzes&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ising4u&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ising4u&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
@@ -143,7 +143,7 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/rexon-ramzes/rexon-ramzes"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rexon-ramzes&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/ising4u/ising4u"><img alt="ising4u's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ising4u&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
@@ -154,10 +154,10 @@
 <br />
 
 <p align="right">
-  <a href="https://github.com/rexon-ramzes?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rexon-ramzes"/></a>
-  <a href="https://github.com/rexon-ramzes?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rexon-ramzes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/rexon-ramzes">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=rexon-ramzes&style=for-the-badge"/></a>
+  <a href="https://github.com/ising4u?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ising4u"/></a>
+  <a href="https://github.com/ising4u?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ising4u?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ising4u">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=ising4u&style=for-the-badge"/></a>
 </p>
